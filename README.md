@@ -55,13 +55,17 @@ To analyze and visualize the Olist e-commerce dataset and deliver **clear, actio
 ---
 
 ## 🔗 Dashboard Previews
+This project focuses on KPI-driven analysis aligned with the business objective.
+A single integrated dashboard was developed to track and visualize key KPIs.
+Supporting tools and files were used for data preparation, querying, and presentation.
+
 
 | Tool     | View Link |
 |----------|-----------|
-| Power BI | [🔗 View Power BI Dashboard](https://your-link-here.com) |
-| Tableau  | [🔗 View Tableau Dashboard](https://your-link-here.com) |
-| Excel    | [🔗 View Excel Dashboard](https://your-link-here.com) |
-
+| Power BI | [🔗 View Power BI Dashboard](https://drive.google.com/file/d/1FeWjprpa1TbdN26IId3qCTeW0VEwWpgu/view?usp=drive_link) |
+| Tableau  | [🔗 View Tableau Dashboard](https://drive.google.com/file/d/1FQRtSZOZY4glsqqavrUQ8TyqoSAtj-no/view?usp=drive_link) |
+| Excel    | [🔗 View Excel Dashboard](https://docs.google.com/spreadsheets/d/1H0A6MeHw25_48znnXHNNO2-v3l1y21At/edit?usp=drive_link&ouid=109755073026266731277&rtpof=true&sd=true) |
+| Sql      | [🔗 View Excel Dashboard]() |    
 > 📌 *Please replace the placeholder links with shareable Google Drive or OneDrive links.*
 
 ---
