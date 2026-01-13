@@ -22,13 +22,9 @@ Olist_data_analysis_dashboards/
 │   ├── Data/
 │   ├── olist_orders_dataset.csv
 │   ├── olist_customers_dataset.csv
-
 │   ├── olist_order_items_dataset.csv
-
 │   ├── olist_payments_dataset.csv
-
 │   └── olist_reviews_dataset.csv
-
 │
 
 ├── Dashboards/
@@ -50,13 +46,9 @@ Olist_data_analysis_dashboards/
 ├── Screenshots/
 
 │   ├── dashboard_overview.png
-
 │   ├── payment_type_analysis.png
-
 │   ├── weekday_weekend_analysis.png
-
 │   └── review_vs_delivery.png
-
 │
 └── README.md
 
