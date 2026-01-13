@@ -134,8 +134,10 @@ Dataset: [📦 Olist Brazilian E-Commerce Public Dataset - Kaggle](https://www.k
 **Ganesh [Ganesh Nivas Pawar]**  
 _Data Analyst Intern_  
 [LinkedIn Profile](https://www.linkedin.com/in/ganesh-pawar-735592367/) 
+
 [Portfolio Website](https://your-link-here.com)
-[Naukari Profile](https://your-link-here.com)
+
+[Naukari Profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 ---
 
