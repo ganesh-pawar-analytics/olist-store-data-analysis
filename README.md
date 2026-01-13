@@ -6,8 +6,6 @@ The analysis was performed using SQL, Excel, Power BI, and Tableau to create int
 
 This project was developed as part of my Data Analytics Internship.
 
-# 🛒 Olist Store Analysis Dashboard Project
-
 This repository contains a comprehensive data analysis and visualization project using the **Olist Brazilian E-Commerce Dataset**. The goal is to extract business insights and display them via interactive dashboards built with:
 
 - 📊 Power BI  
@@ -32,34 +30,50 @@ This repository contains a comprehensive data analysis and visualization project
 
 ---
 
-## 📌 Key KPIs & Insights
+## 📌 Key KPIs
 
-- ### 📆 **Weekday vs Weekend – Payment Statistics**
-Analyzes how customer purchasing and payment behavior differs between weekdays and weekends based on `order_purchase_timestamp`.
+Orders by Payment Type
 
-### 🧾 **Orders with Review Score 5 & Credit Card Payment**
-Counts the number of highly satisfied (5-star) customers who used credit cards, indicating reliable transactions tied to positive feedback.
+Weekday vs Weekend Payment Statistics
 
-### 🐾 **Average Delivery Days for Pet Shop Category**
-Calculates average time taken to deliver orders specifically for products in the `pet_shop` category using `order_delivered_customer_date`.
+Average Delivery Time (Pet Shop Category)
 
-### 🏙️ **Average Price & Payment Value – São Paulo Customers**
-Finds the mean `price` and `payment_value` of orders placed by customers from **São Paulo**, highlighting city-specific purchasing power.
+Review Score vs Shipping Days Relationship
 
-### 🔁 **Shipping Days vs Review Score Relationship**
-Examines the correlation between delivery speed (`shipping_days = order_delivered_customer_date - order_purchase_timestamp`) and customer satisfaction (review score).
-
-> Additional insights include payment behavior trends, review score distributions, and delivery performance.
+Average Order Price & Payment Value (São Paulo Customers)
 
 ---
 
-## 🎯 Objective
+###🔍 Key Insights
 
-To analyze and visualize the Olist e-commerce dataset and deliver **clear, actionable business insights** using industry-standard BI tools.
+Credit cards are the most preferred payment method among customers
+
+Weekday orders contribute higher revenue compared to weekends
+
+Delayed deliveries negatively impact review scores
+
+São Paulo city contributes the highest average order value
+
+Faster delivery results in better customer satisfaction
+
+
+###🎯 Project Objectives
+
+Analyze overall order and customer trends
+
+Understand customer payment preferences
+
+Measure delivery performance and its impact on reviews
+
+Identify high-value cities and customer segments
+
+Compare weekday vs weekend sales behavior
+
+Provide actionable business insights through dashboards
 
 ---
 
-## 🔗 Dashboard Previews
+### 🔗 Dashboard Previews
 This project focuses on KPI-driven analysis aligned with the business objective.
 A single integrated dashboard was developed to track and visualize key KPIs.
 Supporting tools and files were used for data preparation, querying, and presentation.
