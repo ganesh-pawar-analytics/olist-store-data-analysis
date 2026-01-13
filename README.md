@@ -19,6 +19,7 @@ This repository contains a comprehensive data analysis and visualization project
 ## 📁 Project Structure
 
 Olist_data_analysis_dashboards/
+
 │   ├── Data/
 │   ├── olist_orders_dataset.csv
 │   ├── olist_customers_dataset.csv
@@ -35,13 +36,9 @@ Olist_data_analysis_dashboards/
 
 │   └── Excel_Dashboard.xlsx
 
-│
-
 ├── SQL/
 
 │   └── olist_analysis_queries.sql
-
-│
 
 ├── Screenshots/
 
@@ -55,7 +52,7 @@ Olist_data_analysis_dashboards/
 
 ---
 
-###📌 Key KPIs
+### 📌 Key KPIs
 
 ➤ Orders by Payment Type
 
@@ -67,10 +64,8 @@ Olist_data_analysis_dashboards/
 
 ➤ Average Order Price & Payment Value (São Paulo Customers)
 
----
 
-
-###🔍 Key Insights
+### 🔍 Key Insights
 
 ➤ Credit cards are the most preferred payment method among customers
 
@@ -82,10 +77,10 @@ Olist_data_analysis_dashboards/
 
 ➤ Faster delivery results in better customer satisfaction
 
+---
 
 
-
-###🎯 Project Objectives
+### 🎯 Project Objectives
 
 ➤ Analyze overall order and customer trends
 
@@ -127,7 +122,7 @@ Supporting tools and files were used for data preparation, querying, and present
 
 ---
 
-###📂 Data Source
+### 📂 Data Source
 
 Dataset: [📦 Olist Brazilian E-Commerce Public Dataset - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
