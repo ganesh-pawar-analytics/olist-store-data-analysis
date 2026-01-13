@@ -18,58 +18,77 @@ This repository contains a comprehensive data analysis and visualization project
 
 ## 📁 Project Structure
 
-📦 olist-dashboard-project
-├── olist_orders_dataset.csv # Order-level data
-├── olist_reviews_dataset.csv # Customer reviews
-├── olist_payments_dataset.csv # Payment details
-├── Olist_Dashboard_PowerBI.pbix # Power BI dashboard file
-├── Olist_Dashboard_Tableau.twbx # Tableau dashboard file
-├── Olist_Dashboard_Excel.xlsx # Excel dashboard with pivot tables/charts
-└── README.md # Project documentation
+Olist_data_analysis_dashboards/
+│
+├── Data/
+│   ├── olist_orders_dataset.csv
+│   ├── olist_customers_dataset.csv
+│   ├── olist_order_items_dataset.csv
+│   ├── olist_payments_dataset.csv
+│   └── olist_reviews_dataset.csv
+│
+├── Dashboards/
+│   ├── PowerBI_Dashboard.pbix
+│   ├── Tableau_Dashboard.twbx
+│   └── Excel_Dashboard.xlsx
+│
+├── SQL/
+│   └── olist_analysis_queries.sql
+│
+├── Screenshots/
+│   ├── dashboard_overview.png
+│   ├── payment_type_analysis.png
+│   ├── weekday_weekend_analysis.png
+│   └── review_vs_delivery.png
+│
+└── README.md
 
 
 ---
 
-## 📌 Key KPIs
+###📌 Key KPIs
 
-Orders by Payment Type
+➤Orders by Payment Type
 
-Weekday vs Weekend Payment Statistics
+➤Weekday vs Weekend Payment Statistics
 
-Average Delivery Time (Pet Shop Category)
+➤Average Delivery Time (Pet Shop Category)
 
-Review Score vs Shipping Days Relationship
+➤Review Score vs Shipping Days Relationship
 
-Average Order Price & Payment Value (São Paulo Customers)
+➤Average Order Price & Payment Value (São Paulo Customers)
 
 ---
+
 
 ###🔍 Key Insights
 
-Credit cards are the most preferred payment method among customers
+➤Credit cards are the most preferred payment method among customers
 
-Weekday orders contribute higher revenue compared to weekends
+➤Weekday orders contribute higher revenue compared to weekends
 
-Delayed deliveries negatively impact review scores
+➤Delayed deliveries negatively impact review scores
 
-São Paulo city contributes the highest average order value
+➤São Paulo city contributes the highest average order value
 
-Faster delivery results in better customer satisfaction
+➤Faster delivery results in better customer satisfaction
+
+
 
 
 ###🎯 Project Objectives
 
-Analyze overall order and customer trends
+➤Analyze overall order and customer trends
 
-Understand customer payment preferences
+➤Understand customer payment preferences
 
-Measure delivery performance and its impact on reviews
+➤Measure delivery performance and its impact on reviews
 
-Identify high-value cities and customer segments
+➤Identify high-value cities and customer segments
 
-Compare weekday vs weekend sales behavior
+➤Compare weekday vs weekend sales behavior
 
-Provide actionable business insights through dashboards
+➤Provide actionable business insights through dashboards
 
 ---
 
@@ -99,7 +118,7 @@ Supporting tools and files were used for data preparation, querying, and present
 
 ---
 
-## 📂 Data Source
+###📂 Data Source
 
 Dataset: [📦 Olist Brazilian E-Commerce Public Dataset - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
