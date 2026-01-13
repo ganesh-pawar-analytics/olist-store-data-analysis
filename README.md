@@ -19,11 +19,8 @@ This repository contains a comprehensive data analysis and visualization project
 ## 📁 Project Structure
 
 Olist_data_analysis_dashboards/
-│
-├── Data/
-
+│   ├── Data/
 │   ├── olist_orders_dataset.csv
-
 │   ├── olist_customers_dataset.csv
 
 │   ├── olist_order_items_dataset.csv
@@ -33,6 +30,7 @@ Olist_data_analysis_dashboards/
 │   └── olist_reviews_dataset.csv
 
 │
+
 ├── Dashboards/
 
 │   ├── PowerBI_Dashboard.pbix
@@ -48,6 +46,7 @@ Olist_data_analysis_dashboards/
 │   └── olist_analysis_queries.sql
 
 │
+
 ├── Screenshots/
 
 │   ├── dashboard_overview.png
