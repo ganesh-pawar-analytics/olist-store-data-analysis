@@ -16,6 +16,22 @@ This repository contains a comprehensive data analysis and visualization project
 
 ---
 
+### 🎯 Project Objectives
+
+➤ Analyze overall order and customer trends
+
+➤ Understand customer payment preferences
+
+➤ Measure delivery performance and its impact on reviews
+
+➤ Identify high-value cities and customer segments
+
+➤ Compare weekday vs weekend sales behavior
+
+➤ Provide actionable business insights through dashboards
+
+---
+
 ## 📁 Project Structure
 
 Olist_data_analysis_dashboards/
@@ -23,9 +39,13 @@ Olist_data_analysis_dashboards/
 │   ├── Data/
 
 │   ├── olist_orders_dataset.csv
+
 │   ├── olist_customers_dataset.csv
+
 │   ├── olist_order_items_dataset.csv
+
 │   ├── olist_payments_dataset.csv
+
 │   └── olist_reviews_dataset.csv
 │
 
@@ -77,23 +97,6 @@ Olist_data_analysis_dashboards/
 ➤ São Paulo city contributes the highest average order value
 
 ➤ Faster delivery results in better customer satisfaction
-
----
-
-
-### 🎯 Project Objectives
-
-➤ Analyze overall order and customer trends
-
-➤ Understand customer payment preferences
-
-➤ Measure delivery performance and its impact on reviews
-
-➤ Identify high-value cities and customer segments
-
-➤ Compare weekday vs weekend sales behavior
-
-➤ Provide actionable business insights through dashboards
 
 ---
 
